@@ -94,3 +94,27 @@
 
 
 }
+
+
+.main-box{
+    padding: 20px;
+}
+.theme-card{
+    cursor: pointer;
+
+}
+
+
+
+.theme-card>i {
+    font-size: 50px;
+
+}
+
+.theme-card:hover{
+    background-color: #ee2842;
+    color: #fff;
+    
+
+
+}
